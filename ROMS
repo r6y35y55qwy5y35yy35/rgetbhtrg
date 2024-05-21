@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css/styles.css">
+	<font color="white">
+		
+
+	</head>
+	<body>
+		<header>
+			<a href="https://cdn-icons-png.flaticon.com/512/28/28785.png"<img class="left" src="images/ss-logo.png" width="768" height="247"/></a>
+		
+		</header>
+		<nav>
+
+			</ul>
+		</nav>
+
+		<main>
+
+			<p>
+			<br>			
+<h2>How To Setup Emulator!</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdCjL-71RSI?si=NzLX_qw4lsTr4A3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<body bgcolor="black" >
+<p>To install the mGBA emulator on a Windows computer, follow these step-by-step instructions:</p>
+
+<p>1. Download the mGBA emulator from the link titled <strong> Emulator Download </strong> below. Make sure to download the version that is compatible with your Windows operating system (32-bit or 64-bit).</p>
+
+<p>2. Once the download is complete, locate the downloaded file (usually in the Downloads folder) and double-click on it to start the installation process.
+
+<p>3. Follow the on-screen instructions in the installation wizard to install the mGBA emulator on your computer. You may be prompted to choose an installation directory and select any additional options during the installation process.</p>
+
+<p>4. Once the installation is complete, launch the mGBA emulator by double-clicking on its desktop shortcut or by searching for it in the Start menu.
+
+<p>5. You will be prompted to load a ROM file (game) to play on the emulator. You can either download ROM files from the internet (make sure you own a legal copy of the game) or transfer them from your own game cartridge using a ROM dumper.</p>
+
+<p>6. To load a ROM file in mGBA, click on "File" in the top menu bar, then select "Load ROM" and navigate to the location of your ROM file. Click on the ROM file to load it into the emulator.
+
+<p>7. You can customize the emulator settings by clicking on "Options" in the top menu bar and adjusting the video, audio, input, and other settings to suit your preferences. You can also configure controller input settings to use a gamepad or keyboard for playing games.</p>
+
+<p>8. Once you have loaded a ROM file and configured the settings, you can start playing the game on the mGBA emulator. Use the keyboard or gamepad controls to play the game just like you would on a physical GameBoy Advance console.</p>
+
+<p>9. To save your progress in the game, use the emulator's save state feature by clicking on "File" in the top menu bar and selecting "Save State." This allows you to save your game progress at any point and resume playing from that point later on.</p>
+
+<p>10. To exit the emulator, click on the "X" button in the top right corner of the window or go to "File" in the top menu bar and select "Quit" to close the emulator.
+
+<p>That's it! You have successfully installed the mGBA emulator on your Windows computer and can now enjoy playing GameBoy Advance games on your PC. </p>
+           
+			<a href="https://github.com/mgba-emu/mgba/releases/download/0.10.3/mGBA-0.10.3-win64-installer.exe">Emulator Download</a>
+
+		<main>
+			<a href="https://filehippo.com/download_radmin-vpn/post_download/">Radmin VPN Download File Hippo</a>
+			<p>Radmin VPN is a software that allows users to connect to a remote computer and access its desktop as if they were sitting in front of it. It's often used for remote desktop control, file sharing, and online gaming. In the context of hosting LAN games, Radmin VPN creates a virtual private network (VPN) that allows multiple devices to connect to a single host computer, creating a virtual LAN environment. This enables multiple players to join the game and play together, as if they were all connected to the same local network. The host computer acts as the "server" and the other devices connect to it as "clients", allowing them to share resources and communicate with each other. This setup allows for seamless multiplayer gaming without the need for complex networking configurations or separate servers, although the game you are play may require a multiplayer mod or patch in order to work.</p>
+
+			<!-- Add your own content here -->
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/h7HTvS-WTnQ?si=Kqv3rMvgQy8FeH25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		</main>
+	</body>
+
+
+
+
+
+
+
+
+
+		<link rel="stylesheet" href="css/styles.css">
+		<link rel="stylesheet" href="css/slideshow.css"> 
+		<title>Example Website</title>
+	</head>
+	<body>
+		<header>
+
+		
+		</header>
+		<nav>
+			<ul>
+				
+			
+			</ul>
+		</nav>
+
+		<main>
+
+			
+
+
+
+
+			<!-- The dots/circles -->
+			<div style="text-align:center">
+			  <span class="dot" onclick="currentSlide(1)"></span> 
+			  <span class="dot" onclick="currentSlide(2)"></span> 
+			  <span class="dot" onclick="currentSlide(3)"></span> 
+			  <span class="dot" onclick="currentSlide(4)"></span> 
+			</div> 
+			
+			<script>
+				var slideIndex = 1;
+				showSlides(slideIndex);
+
+				function plusSlides(n) {
+				  showSlides(slideIndex += n);
+				}
+
+				function currentSlide(n) {
+				  showSlides(slideIndex = n);
+				}
+
+				function showSlides(n) {
+				  var i;
+				  var slides = document.getElementsByClassName("mySlides");
+				  var dots = document.getElementsByClassName("dot");
+				  if (n > slides.length) {slideIndex = 1}    
+				  if (n < 1) {slideIndex = slides.length}
+				  for (i = 0; i < slides.length; i++) {
+					  slides[i].style.display = "none";  
+				  }
+				  for (i = 0; i < dots.length; i++) {
+					  dots[i].className = dots[i].className.replace(" active", "");
+				  }
+				  slides[slideIndex-1].style.display = "block";  
+				  dots[slideIndex-1].className += " active";
+				}
+				
+			</script>
+
+		</main>
+		<footer>	
+			
+		</footer>
+	</body>
+</html>
+
+
+
+</div>
+			<table>
+				<tr>
+					<td><b></b></td>
+					<td></td>
+					<td><b></b></td>
+					<td></td>	
+					<td><b></b></td>
+					<td></td>
+				</tr>
+				<tr>	
+					<td><b></b></td>
+					<td></td>
+					<td><b></b></td>
+					<td></td>		
+					<td><b></b></td>
+					<td></td>
+				</tr>
+				<tr>			
+					<td><b></b></td>
+					<td></td>
+					<td><b></b></td>
+					<td></td>
+					<td><b></b></td>
+					<td></td>
+				</tr>
+			</table>
+		</footer>
+	</body>
+</html>
+<nav> <!-- Change the page names to suit your website - you will need to do this on every page -->
+				<ul>
+					<li><a class="active" href="Main Idea.html">Home</a></li> <!-- class="active" shows which page you are on -->
+					<li><a href="page1.html">Page 1</a></li>
+					<li><a href="page2.html">Page 2</a></li>
+					<li><a href="page3.html">Page 3</a></li>
+				</ul>
+			</nav>
